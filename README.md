@@ -1,5 +1,3 @@
-                                                       
-                                                                 It's Me 🦯
 
 <p align="center" href="https://uupload.ir/" target="_blank"><img src="https://s2.uupload.ir/files/barney-how-i-met-your-mother_94dt.gif" border="0" alt="آپلود عکس" /></p>
 
