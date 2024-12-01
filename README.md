@@ -1,8 +1,10 @@
 
 <p align="center" href="https://uupload.ir/" target="_blank"><img src="https://s2.uupload.ir/files/barney-how-i-met-your-mother_94dt.gif" border="0" alt="آپلود عکس" /></p>
-
-                                                      
-
+<a href="https://coursera.org/share/99b1c151f0309fca627daa9d036d397a">Supervised Machine Learning: Regression and Classification</a>
+<a href="https://coursera.org/share/fd6e3e46bb75c9cd144306344a5d6f25"> Python for Data Science, AI & Development</a>
+<a href="https://coursera.org/share/05baa175cf707417b63830a2a61de245"> Data Collection and Processing with Python</a>
+<a href="https://coursera.org/share/ae89a53175dc0a79706893a1991d9006"> Python Project: Software Engineering and Image Manipulation</a>
+<a href="https://coursera.org/share/ae89a53175dc0a79706893a1991d9006"> Introduction to Artificial Intelligence (AI)</a>
 <!--
 **abolfazlkeshavarz/abolfazlkeshavarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
