@@ -5,6 +5,17 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiss.abolfazl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abolfazl-keshavarz-lin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theycallmeabol) 
 
+## 📜 Certificates
+
+Here are some of the certifications I have achieved:
+
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/99b1c151f0309fca627daa9d036d397a)
+- [Python for Data Science, AI & Development](https://coursera.org/share/fd6e3e46bb75c9cd144306344a5d6f25)
+- [Data Collection and Processing with Python](https://coursera.org/share/05baa175cf707417b63830a2a61de245)
+- [Python Project: Software Engineering and Image Manipulation](https://coursera.org/share/ae89a53175dc0a79706893a1991d9006)
+- [Introduction to Artificial Intelligence (AI)](https://coursera.org/share/ae89a53175dc0a79706893a1991d9006)
+- [Python 3 Programming](https://coursera.org/share/2cbaebf27133c8dc09567612989bfd8d)
+
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -32,13 +43,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=abolfazlkeshavarz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a align="center" href="https://coursera.org/share/99b1c151f0309fca627daa9d036d397a">Supervised Machine Learning: Regression and Classification</a><br>
-<a align="center" href="https://coursera.org/share/fd6e3e46bb75c9cd144306344a5d6f25"> Python for Data Science, AI & Development</a><br>
-<a align="center" href="https://coursera.org/share/05baa175cf707417b63830a2a61de245"> Data Collection and Processing with Python</a><br>
-<a align="center" href="https://coursera.org/share/ae89a53175dc0a79706893a1991d9006"> Python Project: Software Engineering and Image Manipulation</a><br>
-<a align="center" href="https://coursera.org/share/ae89a53175dc0a79706893a1991d9006"> Introduction to Artificial Intelligence (AI)</a><br>
-<a align="center" href="https://coursera.org/share/2cbaebf27133c8dc09567612989bfd8d"> Python 3 Programming </a>
+
 
 <!--
 **abolfazlkeshavarz/abolfazlkeshavarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
