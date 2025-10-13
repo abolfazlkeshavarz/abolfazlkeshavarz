@@ -34,7 +34,6 @@ Here are some of the certifications I have achieved:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abolfazlkeshavarz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abolfazlkeshavarz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazlkeshavarz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
