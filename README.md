@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently research assistant on Digital Twin Model Engineering<br>🕵️ I’m currently Computer Science Student<br>
+🔭 I’m currently research assistant on Digital Twin Model Engineering<br>🕵️ I’m Computer Science Gratuated<br>
 
 
 ## 🌐 Socials:
